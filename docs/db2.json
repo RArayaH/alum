@@ -1,0 +1,13 @@
+{
+    "alumnos": [
+      {
+        "id": 1,      
+        "usuario": "ri.arayah",
+        "nombre": "Ricardo Araya",
+        "email": "ri.arayah@duocuc.cl",
+        "telefono": "912345678",
+        "carrera": "Analista Programador",      
+        "jornada": "vespertino"      
+      }
+    ]
+  }
