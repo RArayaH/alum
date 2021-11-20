@@ -5,7 +5,28 @@
       "usuario": "ri.arayah",
       "nombre": "Ricardo Araya",
       "email": "ri.arayah@duocuc.cl",
+      "avatar":	"../assets/fotoPerfil/foto1.png",
       "telefono": "912345678",
+      "carrera": "Analista Programador",      
+      "jornada": "vespertino"      
+    },
+    {
+      "id": 2,      
+      "usuario": "va.corales",
+      "nombre": "Valentina Corales",
+      "email": "va.corales@duocuc.cl",
+      "avatar":	"../assets/fotoPerfil/foto1.png",
+      "telefono": "987654321",
+      "carrera": "Analista Programador",      
+      "jornada": "vespertino"      
+    },
+    {
+      "id": 3,      
+      "usuario": "ju.perez",
+      "nombre": "Juan Perez",
+      "email": "ju.perez@duocuc.cl",
+      "avatar":	"../assets/fotoPerfil/foto1.png",
+      "telefono": "981726354",
       "carrera": "Analista Programador",      
       "jornada": "vespertino"      
     }
