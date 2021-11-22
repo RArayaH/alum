@@ -8,7 +8,8 @@
       "avatar":	"../assets/fotoPerfil/foto1.png",
       "telefono": "912345678",
       "carrera": "Analista Programador",      
-      "jornada": "vespertino"      
+      "jornada": "vespertino",
+      "contraseña":12345
     },
     {
       "id": 2,      
@@ -18,7 +19,8 @@
       "avatar":	"../assets/fotoPerfil/foto1.png",
       "telefono": "987654321",
       "carrera": "Analista Programador",      
-      "jornada": "vespertino"      
+      "jornada": "vespertino",
+      "contraseña":54321      
     },
     {
       "id": 3,      
@@ -28,7 +30,8 @@
       "avatar":	"../assets/fotoPerfil/foto1.png",
       "telefono": "981726354",
       "carrera": "Analista Programador",      
-      "jornada": "vespertino"      
+      "jornada": "vespertino",
+      "contraseña":56789      
     }
   ],
   "asignaturas": [
