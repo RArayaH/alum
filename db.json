@@ -9,7 +9,7 @@
       "telefono": "912345678",
       "carrera": "Analista Programador",      
       "jornada": "vespertino",
-      "contraseña":12345
+      "password":"12345"
     },
     {
       "id": 2,      
@@ -20,7 +20,7 @@
       "telefono": "987654321",
       "carrera": "Analista Programador",      
       "jornada": "vespertino",
-      "contraseña":54321      
+      "password":"11111"      
     },
     {
       "id": 3,      
