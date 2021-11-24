@@ -5,7 +5,7 @@
       "usuario": "ri.arayah",
       "nombre": "Ricardo Araya",
       "email": "ri.arayah@duocuc.cl",
-      "avatar":	"../assets/fotoPerfil/foto1.png",
+      "avatar":	"../assets/avatar/foto1.png",
       "telefono": "912345678",
       "carrera": "Analista Programador",      
       "jornada": "vespertino",
@@ -16,7 +16,7 @@
       "usuario": "va.corales",
       "nombre": "Valentina Corales",
       "email": "va.corales@duocuc.cl",
-      "avatar":	"../assets/fotoPerfil/foto1.png",
+      "avatar":	"../assets/avatar/foto2.png",
       "telefono": "987654321",
       "carrera": "Analista Programador",      
       "jornada": "vespertino",
@@ -27,81 +27,22 @@
       "usuario": "ju.perez",
       "nombre": "Juan Perez",
       "email": "ju.perez@duocuc.cl",
-      "avatar":	"../assets/fotoPerfil/foto1.png",
+      "avatar":	"../assets/avatar/foto3.png",
       "telefono": "981726354",
       "carrera": "Analista Programador",      
       "jornada": "vespertino",
       "contraseña": "56789"
     }
   ],
-  "asignaturas": [
+  "docentes": [
     {
-      "alumnoId": 1,
-      "id": 1,
-      "nombreAsignatura": "Programacion Web",
-      "horarios": {
-        "h1": {
-          "dia":"Lunes",
-          "inicio": "19:15",
-          "termino": "21:30"
-          },
-        "h2": {
-          "dia":"Martes",
-          "inicio": "21:31",
-          "termino": "23:00"
-          }        
-      }      
-    },
-    {
-      "alumnoId": 1,
-      "id": 2,
-      "nombreAsignatura": "Consulta de Base Datos",
-      "horarios": {
-        "h1": {
-          "dia":"Lunes",
-          "inicio": "22:16",
-          "termino": "23:45"
-          },
-        "h2": {
-          "dia":"Viernes",
-          "inicio": "19:15",
-          "termino": "21:30"
-          }        
-      }      
-    },
-    {
-      "alumnoId": 1,
-      "id": 3,
-      "nombreAsignatura": "Asignatura Test",
-      "horarios": {
-        "h1": {
-          "dia":"Lunes",
-          "inicio": "00:00",
-          "termino": "23:59"         
-        },
-        "h2": {
-          "dia":"Martes",
-          "inicio": "00:00",
-          "termino": "23:59"
-          }        
-      }      
-    },
-    {
-      "alumnoId": 1,
-      "id": 4,
-      "nombreAsignatura": "Arquitectura",
-      "horarios": {
-        "h1": {
-          "dia":"Martes",
-          "inicio": "19:16",
-          "termino": "21:30"
-          },
-        "h2": {
-          "dia":"Miercoles",
-          "inicio": "22:16",
-          "termino": "23:45"
-          }        
-      }      
-    } 
+      "id": 1;
+      "seccion": "00";
+      "asignatura": "Prueba";
+      "docente": "profesor";
+      "correo": "correo@prueba.cl";
+      "avatar": "../assets/avatar/foto1.png";
+      "asiste": "false";
+    }
   ]
 }
