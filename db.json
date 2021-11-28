@@ -36,13 +36,12 @@
   ],
   "docentes": [
     {
-      "id": 1,
-      "seccion": "00",
-      "asignatura": "Prueba",
-      "docente": "profesor",
-      "correo": "correo@prueba.cl",
-      "avatar": "../assets/avatar/foto1.png",
-      "asiste": "false"
+      "idAsignatura": "1",
+      "seccion": "001V",
+      "asignatura": "APLICACIONES MOVILES",
+      "docente": "Nancy Bernal Sanchez",
+      "correo": "nan.bernal@profesor.duoc.cl",
+      "avatar":	"../assets/fotoPerfil/docente1.png"
     }
   ]
 }
